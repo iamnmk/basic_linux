@@ -1,0 +1,6 @@
+Some linux topics:
+1. Adding users and groups
+2. Permissions
+3. Grep, Awk and Find 
+4. Package Management
+5. Shell Scripting
